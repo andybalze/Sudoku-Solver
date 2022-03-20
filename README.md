@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Creates and solves sudoku puzzle
+Creates and/or solves sudoku puzzles
